@@ -1,8 +1,8 @@
 # 🎛️ Simethesia Controller (PI Control)
 
-This repository contains the **closed-loop controller** used in the [Simethesia Platform](https://github.com/simethesia/simethesia-lab) to regulate anesthesia depth in real-time using BIS (Bispectral Index) feedback.
+This repository contains the **closed-loop controller** used in the [Simethesia Platform](https://github.com/victorbezerra-dev/simethesia-lab) to regulate anesthesia depth in real-time using BIS (Bispectral Index) feedback.
 
-It implements a **discrete-time Proportional-Integral (PI)** controller that adjusts the infusion rate of propofol. The controller communicates with the [Simethesia Simulator](https://github.com/simethesia/simethesia-simulator) via I²C.
+It implements a **discrete-time Proportional-Integral (PI)** controller that adjusts the infusion rate of propofol. The controller communicates with the [Simethesia Simulator](https://github.com/victorbezerra-dev/simethesia-simulator) via I²C.
 
 ---
 
